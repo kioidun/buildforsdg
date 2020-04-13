@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500&display=swap');
+
 
 *{
     margin:0;
@@ -71,7 +71,8 @@ section p{
     font-size: 1.5rem;
 }
 section#home{
-    background: url('https://source.unsplash.com/bZZp1PmHI0E/1600*900') no-repeat center center/ cover;
+    background: url('https://source.unsplash.com/bZZp1PmHI0E/1600*900')
+     no-repeat center center/ cover;
     color: #fff;
 }
 
