@@ -1,0 +1,15 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "front-end for buildforsdg",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages src"
+  },
+  "author": "Duncan kioi",
+  "license": "ISC",
+  "homepage": "https://kioidun.github.io/buildforsdg",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
